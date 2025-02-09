@@ -1,0 +1,317 @@
+
+[2025-02-09 13:59:10,344] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-09 13:59:10,708] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-09 13:59:18,614] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 13:59:20,813] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 13:59:20,818] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 13:59:21,903] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 13:59:24,652] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 13:59:24,657] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 13:59:25,094] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 13:59:28,817] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 14:05:44,089] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\GDANDE~1\AppData\Local\Temp\testng-eclipse--2146618295\testng-customsuite.xml"
+[2025-02-09 14:05:44,421] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,424] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-09 14:05:44,425] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,425] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,425] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,425] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,426] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,426] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,431] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2025-02-09 14:05:44,441] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[2025-02-09 14:05:44,442] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,442] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,443] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,443] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,443] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,443] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,447] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,448] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,448] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,448] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,449] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,450] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,450] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,450] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,451] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-09 14:05:44,453] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-02-09 14:05:44,455] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,455] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,455] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:05:44,455] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:05:44,462] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\AppData\Local\Temp\testng-eclipse--2146618295\testng-customsuite.xml
+
+[2025-02-09 14:05:44,484] [INFO] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-02-09 14:05:44,676] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@3d8bbcdc: 108 ms
+[2025-02-09 14:05:44,688] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@53ab0286: 11 ms
+[2025-02-09 14:05:44,696] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@6d1d4d7: 8 ms
+[2025-02-09 14:05:44,705] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@60b71e8f: 9 ms
+[2025-02-09 14:05:44,711] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@47da3952: 6 ms
+[2025-02-09 14:05:44,711] [INFO] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@51e4ccb3: 0 ms
+[2025-02-09 14:06:08,963] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\GDANDE~1\AppData\Local\Temp\testng-eclipse-1445259518\testng-customsuite.xml"
+[2025-02-09 14:06:09,273] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,277] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-02-09 14:06:09,278] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,279] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,279] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,279] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,279] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,279] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,283] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2025-02-09 14:06:09,294] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[2025-02-09 14:06:09,295] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,295] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,297] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,297] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,297] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,297] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,299] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,299] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,299] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,299] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,300] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,300] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,300] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,300] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,301] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,303] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-02-09 14:06:09,304] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,304] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,305] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:09,305] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:09,312] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\AppData\Local\Temp\testng-eclipse-1445259518\testng-customsuite.xml
+
+[2025-02-09 14:06:09,331] [INFO] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-02-09 14:06:09,535] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@5d465e4b: 105 ms
+[2025-02-09 14:06:09,551] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@2c9399a4: 15 ms
+[2025-02-09 14:06:09,561] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@1ca25c47: 9 ms
+[2025-02-09 14:06:09,567] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@94f6bfb: 6 ms
+[2025-02-09 14:06:09,573] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c22d4f: 6 ms
+[2025-02-09 14:06:09,574] [INFO] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5f59185e: 0 ms
+[2025-02-09 14:06:53,141] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\GDANDE~1\AppData\Local\Temp\testng-eclipse--971687099\testng-customsuite.xml"
+[2025-02-09 14:06:53,457] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,460] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-09 14:06:53,462] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,463] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,463] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,463] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,463] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,463] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,467] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[2025-02-09 14:06:53,479] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[2025-02-09 14:06:53,480] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,481] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,481] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,481] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,481] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,481] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,484] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,484] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,485] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,485] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,485] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,486] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,486] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,486] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,487] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,490] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[2025-02-09 14:06:53,491] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,491] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,491] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 14:06:53,491] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 14:06:53,497] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\AppData\Local\Temp\testng-eclipse--971687099\testng-customsuite.xml
+
+[2025-02-09 14:06:53,515] [INFO] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-02-09 14:06:53,711] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@3d8bbcdc: 97 ms
+[2025-02-09 14:06:53,722] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@53ab0286: 11 ms
+[2025-02-09 14:06:53,733] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@6d1d4d7: 10 ms
+[2025-02-09 14:06:53,741] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@60b71e8f: 8 ms
+[2025-02-09 14:06:53,748] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@47da3952: 6 ms
+[2025-02-09 14:06:53,748] [INFO] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@51e4ccb3: 0 ms
+[2025-02-09 14:07:39,046] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-09 14:07:39,440] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-09 14:07:47,238] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 14:07:47,699] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 14:07:50,072] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 14:07:50,076] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 14:07:50,951] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 14:07:50,954] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 14:07:54,316] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 14:07:55,141] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 14:15:09,906] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-09 14:15:10,264] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-09 14:15:16,852] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 14:15:16,852] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 14:15:18,591] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 14:15:20,350] [ERROR] [TC001_LoginTest] - TC Failed - Login Failed ! expected [true] but found [false]
+[2025-02-09 14:15:46,637] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-09 14:15:47,014] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-09 14:15:54,536] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 14:15:54,536] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 14:15:56,249] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 14:15:58,010] [ERROR] [TC001_LoginTest] - TC Failed - Login Failed ! expected [true] but found [false]
+[2025-02-09 14:16:10,014] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-09 14:16:10,420] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-09 14:16:17,212] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 14:16:17,212] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 14:16:18,869] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 14:16:20,761] [ERROR] [TC001_LoginTest] - TC Failed - Login Failed ! expected [true] but found [false]
+[2025-02-09 14:17:25,347] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-09 14:17:25,765] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-09 14:17:32,031] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 14:17:34,060] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 14:17:34,070] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 14:17:38,228] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 14:40:11,656] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-09 14:40:12,082] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-09 14:40:20,862] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 14:40:20,894] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 14:40:23,170] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 14:40:23,176] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 14:40:23,621] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 14:40:23,625] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 14:40:27,409] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 14:40:27,886] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 15:21:52,372] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-09 15:21:52,739] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-09 15:21:58,422] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 15:22:00,737] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 15:22:00,743] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 15:22:01,882] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 15:43:08,788] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-09 15:43:09,177] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-09 15:43:15,197] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 15:43:16,935] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 15:43:16,941] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 15:43:18,079] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 15:49:06,426] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-09 15:49:06,792] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-09 15:49:15,566] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 15:49:22,474] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 15:49:22,479] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 15:49:33,664] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-09 15:49:34,068] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-09 15:49:43,943] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 15:49:52,411] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 15:49:52,421] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 15:51:22,214] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\GDANDE~1\AppData\Local\Temp\testng-eclipse--1199431457\testng-customsuite.xml"
+[2025-02-09 15:51:22,529] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-09 15:51:22,532] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-09 15:51:22,534] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,534] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,534] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,534] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,534] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,534] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,538] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2025-02-09 15:51:22,548] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[2025-02-09 15:51:22,549] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,549] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,549] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,549] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,550] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,550] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,552] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,552] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,552] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,552] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,553] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,553] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,553] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,553] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,554] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,556] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-09 15:51:22,557] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,557] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,557] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-09 15:51:22,557] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-09 15:51:22,564] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\AppData\Local\Temp\testng-eclipse--1199431457\testng-customsuite.xml
+
+[2025-02-09 15:51:22,580] [INFO] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-02-09 15:51:22,792] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@5d465e4b: 117 ms
+[2025-02-09 15:51:22,806] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@2c9399a4: 14 ms
+[2025-02-09 15:51:22,817] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@1ca25c47: 10 ms
+[2025-02-09 15:51:22,823] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@94f6bfb: 6 ms
+[2025-02-09 15:51:22,830] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c22d4f: 6 ms
+[2025-02-09 15:51:22,831] [INFO] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5f59185e: 0 ms
+[2025-02-09 15:51:36,867] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-09 15:51:37,225] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-09 15:51:44,757] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 15:51:49,927] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 15:51:49,936] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 15:51:56,184] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 15:55:22,059] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-09 15:55:22,416] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-09 15:55:27,869] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 15:55:30,355] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 15:55:30,359] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 15:55:31,606] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 15:55:31,615] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 15:55:33,641] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 15:55:33,643] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 15:55:34,900] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 15:57:16,587] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-09 15:57:16,942] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-09 15:57:25,003] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 15:57:27,511] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 15:57:27,519] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 15:57:28,824] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 15:57:29,905] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 15:57:32,395] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 15:57:32,397] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 15:57:33,585] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 16:00:31,997] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-09 16:00:32,352] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-09 16:00:41,599] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 16:00:43,855] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 16:00:43,859] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 16:00:45,004] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 16:00:45,528] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 16:00:49,797] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 16:00:49,802] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 16:00:51,907] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 16:01:27,765] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-09 16:01:28,142] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-09 16:01:35,492] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 16:01:35,492] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 16:01:37,583] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 16:01:39,209] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 16:01:39,211] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 16:01:41,735] [ERROR] [TC001_LoginTest] - TC Failed - Login Failed ! expected [true] but found [false]
