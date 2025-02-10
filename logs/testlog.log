@@ -315,3 +315,62 @@
 [2025-02-09 16:01:39,209] [INFO] [TC001_LoginTest] - Logging with Valid Credential
 [2025-02-09 16:01:39,211] [INFO] [TC001_LoginTest] - Logging with InValid Credential
 [2025-02-09 16:01:41,735] [ERROR] [TC001_LoginTest] - TC Failed - Login Failed ! expected [true] but found [false]
+[2025-02-09 16:26:36,687] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-09 16:26:37,074] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-09 16:26:45,063] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 16:26:46,803] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-09 16:26:46,872] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 16:26:46,876] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 16:26:48,066] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-09 16:26:49,976] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-09 16:26:49,979] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-09 16:26:51,089] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-10 18:15:20,482] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-10 18:15:20,937] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-10 18:15:49,150] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 18:15:49,386] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 18:15:52,202] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 18:15:52,440] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 18:16:36,898] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-10 18:16:37,286] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-10 18:17:00,796] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 18:17:03,833] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 18:17:10,522] [ERROR] [TC001_LoginTest] - TC Failed - Login Failed ! expected [true] but found [false]
+[2025-02-10 18:18:29,328] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-10 18:18:29,717] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-10 18:18:35,639] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 18:18:38,065] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-10 18:18:38,075] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 18:18:40,384] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-10 18:18:51,058] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-10 18:18:51,447] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-10 18:18:59,135] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 18:19:01,318] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 18:19:02,056] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-10 18:19:02,063] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 18:19:03,694] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-10 18:19:03,698] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 18:19:04,255] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-10 18:19:05,870] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-10 18:19:45,150] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-10 18:19:45,541] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-10 18:19:54,408] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 18:19:56,516] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 18:20:00,927] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-10 18:20:00,939] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 18:20:03,725] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-10 18:20:03,730] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 18:20:11,319] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-10 18:20:13,399] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !

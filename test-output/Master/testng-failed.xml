@@ -6,6 +6,7 @@
     <classes>
       <class name="testCases.TC001_LoginTest">
         <methods>
+          <include name="testInValidLogin"/>
           <include name="testValidLogin"/>
           <include name="setup"/>
           <include name="TearDown"/>
