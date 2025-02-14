@@ -36,7 +36,7 @@ This is an automated testing project for the OrangeHRM application. OrangeHRM is
 **Features:**
   1.Parallel Testing 
   2.Cross Browser Testing 
-  3.Data Driver Approach using Apachi POI & Properties file
+  3.Data Driver Approach using Apachi POI 
   
 **Dependancies Added ** -> Selenium-java, log4j(3), extentreport, apachiPOI(2), commonsIO(2)
 
@@ -62,4 +62,9 @@ Steps for Cross-Browser Testing:
 1.Create Separate testng.xml for Cross-Browser Setup-: Create a separate testng.xml file to define the browser configuration. Pass the browser name as a parameter (e.g., <parameter name="Browser" value="Chrome"/>), which will then be used to initialize the corresponding WebDriver.
 2.Use @Parameters Annotation-: In setup method, use the @Parameters annotation to fetch the browser value from the XML file. Based on the browser parameter, use a switch-case or if-else block to initialize the corresponding browser driver.
 3.Add Parallel Execution in testng.xml-: To run tests in parallel across different browsers, configure the parallel="tests" attribute in the <suite> tag in the testng.xml file. This will run each test with different browser configurations simultaneously.
+..........................................................
+**DDT**
+1.Add dependancies 2, POI & POI-OOXMl
+2.Create excel utility file under utility package . which contain code to read excel file data
+3.Using testng data provider pass parameters to @Test method
 
