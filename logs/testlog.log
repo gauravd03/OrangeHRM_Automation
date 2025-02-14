@@ -374,3 +374,1308 @@
 [2025-02-10 18:20:03,730] [INFO] [TC001_LoginTest] - Logging with Valid Credential
 [2025-02-10 18:20:11,319] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
 [2025-02-10 18:20:13,399] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-10 21:47:38,100] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-10 21:47:38,535] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-10 21:47:51,318] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 21:47:54,368] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-10 21:47:54,381] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 21:47:56,205] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 21:47:56,637] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-10 21:48:01,968] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-10 21:48:01,978] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 21:48:03,662] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-10 21:53:31,833] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-10 21:53:32,273] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-10 21:53:55,751] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 21:53:58,815] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 21:54:04,961] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 21:54:08,038] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 21:54:29,846] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-10 21:54:30,220] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-10 21:54:38,673] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 21:54:41,055] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-10 21:54:41,067] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 21:54:42,456] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-10 21:54:51,854] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-10 21:54:52,269] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-10 21:55:03,185] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 21:55:03,185] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-10 21:55:05,628] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-10 21:55:05,638] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 21:55:06,049] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-10 21:55:06,059] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-10 21:55:07,148] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-10 21:55:07,424] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 15:43:18,294] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 15:43:18,760] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 15:43:31,518] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 15:43:33,899] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 15:43:33,907] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 15:43:35,457] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 17:07:43,524] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 17:07:44,062] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 17:07:52,536] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 17:07:54,414] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 17:07:54,432] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 17:07:55,939] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 17:13:16,940] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 17:13:17,625] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 17:13:26,665] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 17:13:28,497] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 17:13:28,514] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 17:13:29,944] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 17:14:24,328] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\GDANDE~1\AppData\Local\Temp\testng-eclipse--1045014131\testng-customsuite.xml"
+[2025-02-12 17:14:24,786] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,791] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-02-12 17:14:24,792] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,792] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 17:14:24,793] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,793] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 17:14:24,794] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,794] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 17:14:24,803] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[2025-02-12 17:14:24,819] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+[2025-02-12 17:14:24,822] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,823] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 17:14:24,823] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,824] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 17:14:24,824] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,824] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 17:14:24,829] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,829] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 17:14:24,830] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,830] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 17:14:24,831] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,831] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 17:14:24,832] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,832] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 17:14:24,832] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 17:14:24,840] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[2025-02-12 17:14:32,746] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 17:14:33,327] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 17:14:39,802] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 17:14:41,658] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 17:14:41,674] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 17:14:43,037] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 17:16:03,715] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 17:16:04,241] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 17:16:11,620] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 17:16:13,447] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 17:16:13,462] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 17:16:14,874] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 17:19:10,176] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 17:19:10,688] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 17:19:18,027] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 17:19:19,924] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 17:19:19,939] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 17:19:21,322] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 17:19:27,796] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 17:20:42,572] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 17:20:43,168] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 17:20:52,058] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 17:20:54,276] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 17:20:54,291] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 17:20:55,830] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 17:21:02,796] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 17:23:08,684] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 17:23:09,231] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 17:23:16,319] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 17:23:19,106] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 17:23:19,121] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 17:23:20,576] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 17:23:28,249] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 20:33:36,354] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 20:33:36,898] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 20:33:48,962] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 20:33:51,009] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 20:33:51,025] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 20:33:52,860] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 20:34:05,134] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 20:34:59,818] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 20:35:00,299] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 20:35:08,992] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 20:35:10,945] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 20:35:10,958] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 20:35:12,534] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 20:35:20,925] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 20:35:20,934] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 20:36:11,686] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 20:36:12,211] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 20:36:21,647] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 20:36:23,409] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 20:36:23,428] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 20:36:25,212] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 20:36:33,769] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 20:36:37,785] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 22:52:59,159] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 22:52:59,645] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 22:53:23,247] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 22:53:29,052] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 22:53:29,066] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 22:53:32,054] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 22:53:53,554] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 22:53:57,575] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 22:56:20,563] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 22:56:20,997] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 22:57:00,371] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 22:57:10,973] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 22:57:16,585] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 22:57:20,591] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 22:59:57,614] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 22:59:58,068] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:00:06,311] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 23:00:09,120] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 23:00:09,131] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 23:00:10,965] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 23:00:18,547] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:00:22,572] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:01:08,302] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:01:08,766] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:01:15,998] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 23:01:19,043] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 23:01:22,705] [ERROR] [TC001_LoginTest] - TC Failed - Login Failed ! expected [true] but found [false]
+[2025-02-12 23:02:09,731] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:02:13,747] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:04:41,616] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:04:42,049] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:04:50,206] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 23:04:53,294] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 23:04:56,781] [ERROR] [TC001_LoginTest] - TC Failed - Login Failed ! expected [true] but found [false]
+[2025-02-12 23:05:24,170] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:05:24,621] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:05:32,903] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 23:05:35,833] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 23:05:35,851] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 23:05:37,315] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 23:06:20,341] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:06:20,734] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:06:28,493] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 23:06:31,118] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 23:06:31,136] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 23:06:32,658] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 23:06:40,965] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:06:44,975] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:09:22,577] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:09:23,097] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:09:31,241] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 23:09:33,596] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 23:09:33,611] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 23:09:35,380] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 23:09:42,598] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:09:42,608] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:12:01,462] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:12:01,988] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:12:10,390] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 23:12:13,082] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 23:12:13,094] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 23:12:14,705] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 23:12:21,403] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:17:34,688] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:17:35,131] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:17:43,277] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 23:17:45,833] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 23:17:45,870] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 23:17:47,701] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 23:17:54,850] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:17:54,866] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:25:25,536] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\GDANDE~1\AppData\Local\Temp\testng-eclipse--403273444\testng-customsuite.xml"
+[2025-02-12 23:25:25,922] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,926] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-12 23:25:25,928] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,928] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,928] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,928] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,929] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,929] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,935] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2025-02-12 23:25:25,948] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+[2025-02-12 23:25:25,950] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,950] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,951] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,951] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,952] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,952] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,958] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,958] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,959] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,960] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,961] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,962] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,962] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,962] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,963] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,964] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,965] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,965] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,966] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-12 23:25:25,966] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-12 23:25:25,978] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\AppData\Local\Temp\testng-eclipse--403273444\testng-customsuite.xml
+
+[2025-02-12 23:25:26,005] [INFO] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[2025-02-12 23:25:26,348] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@751d3241: 199 ms
+[2025-02-12 23:25:26,377] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@f9d87b: 29 ms
+[2025-02-12 23:25:26,392] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@60d8c0dc: 15 ms
+[2025-02-12 23:25:26,402] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f2606b: 10 ms
+[2025-02-12 23:25:26,411] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1e044120: 8 ms
+[2025-02-12 23:25:26,412] [INFO] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2cf23c81: 0 ms
+[2025-02-12 23:25:40,794] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:25:41,205] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:25:49,150] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-12 23:25:51,573] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-12 23:25:51,588] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-12 23:25:53,318] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-12 23:26:00,650] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:26:00,657] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:26:02,710] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:28:37,221] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:28:37,672] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:28:53,941] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:28:53,984] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:29:04,026] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:29:58,291] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:29:58,779] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:30:06,601] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:30:06,637] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:30:07,647] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:30:30,955] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:30:31,365] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:30:39,487] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:30:39,539] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:30:40,403] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:32:31,129] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:32:31,554] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:32:40,456] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:32:40,512] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:32:41,292] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:33:54,388] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:33:54,792] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:34:01,639] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:34:01,660] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:34:02,677] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:34:20,590] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:34:20,997] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:34:28,226] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:34:28,251] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:34:30,745] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:35:12,317] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:35:12,742] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:35:19,985] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:35:20,009] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:35:22,808] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:37:59,957] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:38:00,427] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:38:07,974] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:38:08,006] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:38:24,299] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:39:42,352] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:39:42,790] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:39:50,854] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:39:50,902] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:40:08,066] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:40:09,911] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-12 23:47:49,434] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:47:49,810] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:47:58,141] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:47:58,199] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:48:15,103] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:48:17,774] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-12 23:49:37,808] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:49:38,224] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:49:45,830] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:49:45,878] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:50:03,759] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:53:05,261] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:53:05,657] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:53:15,660] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:53:15,689] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:53:24,320] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:53:41,429] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:53:41,887] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:53:49,289] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:53:49,321] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:53:57,906] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-12 23:58:30,136] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-12 23:58:30,575] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-12 23:58:37,776] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-12 23:58:37,802] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-12 23:58:46,678] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:03:46,864] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\GDANDE~1\AppData\Local\Temp\testng-eclipse--653670002\testng-customsuite.xml"
+[2025-02-13 00:03:47,243] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-13 00:03:47,247] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-02-13 00:03:47,250] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,251] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,253] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,253] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,255] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,255] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,264] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[2025-02-13 00:03:47,292] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+[2025-02-13 00:03:47,294] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,295] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,295] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,296] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,296] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,296] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,301] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,301] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,302] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,302] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,303] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,304] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,304] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,304] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,306] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-13 00:03:47,307] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-13 00:03:47,310] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,310] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,310] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-13 00:03:47,310] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-13 00:03:47,320] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\AppData\Local\Temp\testng-eclipse--653670002\testng-customsuite.xml
+
+[2025-02-13 00:03:47,348] [INFO] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[2025-02-13 00:03:47,653] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@6175619b: 188 ms
+[2025-02-13 00:03:47,674] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@452ba1db: 21 ms
+[2025-02-13 00:03:47,690] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@2ce86164: 15 ms
+[2025-02-13 00:03:47,702] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@62679465: 11 ms
+[2025-02-13 00:03:47,713] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3ebff828: 11 ms
+[2025-02-13 00:03:47,713] [INFO] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2552f2cb: 0 ms
+[2025-02-13 00:04:05,550] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:04:05,961] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:04:12,966] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:04:12,990] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:04:13,777] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:11:04,750] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:11:05,264] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:11:13,275] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:11:16,104] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:11:17,602] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:14:19,902] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:14:20,454] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:14:29,272] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:14:31,667] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:14:33,175] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:14:40,113] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:14:40,121] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:14:42,781] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:14:45,773] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 00:18:42,128] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:18:42,565] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:18:50,927] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:18:53,874] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:18:56,142] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:19:03,288] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:19:03,298] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:19:05,997] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:19:09,005] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 00:19:11,266] [INFO] [TC002_AddEmployee] - Enter user detials
+[2025-02-13 00:22:21,185] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:22:21,677] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:22:29,269] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:22:31,650] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:22:33,236] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:22:40,133] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:22:40,148] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:22:43,238] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:22:46,469] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 00:22:48,580] [INFO] [TC002_AddEmployee] - Enter user detials
+[2025-02-13 00:32:14,977] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:32:15,334] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:32:21,589] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:32:23,733] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:32:25,294] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:32:31,120] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:32:31,125] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:32:33,779] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:32:38,122] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 00:32:40,434] [INFO] [TC002_AddEmployee] - Enter user detials
+[2025-02-13 00:36:34,891] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:36:35,360] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:36:42,411] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:36:44,969] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:36:46,656] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:36:53,039] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:36:53,048] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:36:55,415] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:36:58,692] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 00:37:01,298] [INFO] [TC002_AddEmployee] - Enter user detials
+[2025-02-13 00:44:35,480] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:44:35,929] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:44:42,647] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:44:44,885] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:44:46,384] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:44:52,030] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:44:52,036] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:44:54,559] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:44:58,245] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 00:45:01,871] [INFO] [TC002_AddEmployee] - Enter user detials
+[2025-02-13 00:46:51,732] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:46:52,376] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:46:58,534] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:47:00,721] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:47:02,227] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:47:08,560] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:47:08,565] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:47:10,994] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:47:14,217] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 00:47:16,114] [INFO] [TC002_AddEmployee] - Enter user detials
+[2025-02-13 00:49:12,450] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:49:12,948] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:49:18,797] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:49:20,953] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:49:22,432] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:49:28,988] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:49:28,993] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:49:31,980] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:49:34,894] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 00:49:37,028] [INFO] [TC002_AddEmployee] - Enter user detials
+[2025-02-13 00:49:37,676] [INFO] [TC002_AddEmployee] - Endded
+[2025-02-13 00:51:38,316] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 00:51:38,676] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 00:51:47,137] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:51:49,379] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-13 00:51:49,389] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:51:50,827] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:51:56,627] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:51:56,631] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:51:59,374] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:52:02,342] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 00:52:04,447] [INFO] [TC002_AddEmployee] - Enter user detials
+[2025-02-13 00:52:04,983] [INFO] [TC002_AddEmployee] - Endded
+[2025-02-13 00:52:56,148] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-13 00:52:56,564] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-13 00:53:04,924] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 00:53:07,083] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-13 00:53:07,099] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 00:53:08,438] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 00:53:15,736] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 00:53:15,748] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 00:53:18,184] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 00:53:21,172] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 00:53:23,213] [INFO] [TC002_AddEmployee] - Enter user detials
+[2025-02-13 00:53:23,980] [INFO] [TC002_AddEmployee] - Endded
+[2025-02-13 11:28:47,854] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml"
+[2025-02-13 11:28:48,617] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\CrossBrowserTest.xml
+
+[2025-02-13 11:29:00,971] [INFO] [TC002_AddEmployee] - TC002_ Employee creation started
+[2025-02-13 11:29:01,009] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 11:29:06,427] [INFO] [TC002_AddEmployee] - click on PIM module
+[2025-02-13 11:29:06,674] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 11:29:08,403] [INFO] [TC002_AddEmployee] - Enter details
+[2025-02-13 11:29:10,069] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-13 11:29:10,086] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 11:29:10,519] [INFO] [TC002_AddEmployee] - Enter user detials
+[2025-02-13 11:29:11,121] [INFO] [TC002_AddEmployee] - Endded
+[2025-02-13 11:29:11,563] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 13:13:09,393] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 13:13:09,935] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 13:13:21,112] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 13:13:24,916] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-13 13:13:24,933] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 13:13:26,476] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 13:13:32,994] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 13:13:35,509] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 13:13:41,408] [INFO] [TC002_AddEmployee] - Employee create successfully
+[2025-02-13 13:17:29,802] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 13:17:30,314] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 13:17:38,112] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 13:17:41,203] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-13 13:17:41,221] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 13:17:43,039] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 13:17:49,738] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 13:17:53,797] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 13:17:58,228] [INFO] [TC002_AddEmployee] - Employee create successfully
+[2025-02-13 13:42:05,693] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 13:42:06,070] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 13:42:11,959] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 13:42:14,108] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 13:42:19,151] [INFO] [TC002_AddEmployee] - Employee create successfully
+[2025-02-13 13:43:46,399] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 13:43:46,756] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 13:43:53,523] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 13:43:55,369] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 13:44:00,048] [INFO] [TC002_AddEmployee] - Employee create successfully
+[2025-02-13 13:44:49,023] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 13:44:49,370] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 13:44:55,345] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 13:44:57,317] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 13:45:02,390] [INFO] [TC002_AddEmployee] - Employee create successfully
+[2025-02-13 13:45:48,911] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 13:45:49,285] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 13:45:54,952] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 13:45:56,898] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 13:46:01,967] [INFO] [TC002_AddEmployee] - Employee create successfully
+[2025-02-13 13:48:06,683] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 13:48:07,069] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 13:48:17,697] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 13:48:47,332] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 13:48:47,772] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 13:49:00,458] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 13:49:15,554] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 13:49:15,962] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 13:49:31,139] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 13:55:11,756] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 13:55:12,097] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 13:55:17,999] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 13:55:19,847] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 13:55:24,342] [INFO] [TC002_AddEmployee] - Employee create successfully
+[2025-02-13 14:04:26,739] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 14:04:27,092] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 14:04:33,504] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 14:04:35,323] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 14:04:39,993] [INFO] [TC002_AddEmployee] - Employee create successfully
+[2025-02-13 14:15:45,563] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 14:15:46,014] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 14:15:53,971] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 14:15:55,802] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 14:16:56,881] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 14:16:57,231] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 14:17:02,461] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 14:17:04,346] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 14:19:37,658] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 14:19:38,109] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 14:19:45,855] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 14:19:47,648] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 14:21:28,463] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 14:21:28,848] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 14:21:35,775] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 14:21:37,600] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 14:21:44,567] [INFO] [TC002_AddEmployee] - Employee created successfully
+[2025-02-13 14:23:17,380] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 14:23:17,790] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 14:23:53,417] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 14:23:53,776] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 14:24:00,851] [INFO] [TC001_LoginTest] - Logging with InValid Credential
+[2025-02-13 14:24:03,776] [INFO] [TC001_LoginTest] - Pass - Login Faild because of Invalid credential!
+[2025-02-13 14:24:03,783] [INFO] [TC001_LoginTest] - Logging with Valid Credential
+[2025-02-13 14:24:04,971] [INFO] [TC001_LoginTest] - TC Pass - Succesfully logged in !
+[2025-02-13 14:24:11,444] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 14:24:13,468] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 14:24:20,054] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-13 16:45:59,352] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 16:45:59,701] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 16:46:59,657] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 16:47:00,010] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 16:48:35,496] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 16:48:35,870] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 16:50:29,794] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 16:50:30,186] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 16:53:32,558] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 16:53:32,973] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 17:03:57,838] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 17:03:58,201] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 17:07:52,697] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 17:07:53,045] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 17:24:52,716] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 17:24:53,077] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 17:24:59,477] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 17:24:59,480] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 17:25:00,162] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 17:25:01,823] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 17:25:10,606] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 17:34:13,944] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 17:34:14,342] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 17:34:20,890] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 17:34:20,896] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 17:34:21,334] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 17:34:25,051] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 17:34:28,286] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 17:44:03,248] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 17:44:03,635] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 17:44:11,634] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 17:44:11,639] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 17:44:12,221] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 17:44:13,497] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 17:44:14,806] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 17:44:41,375] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 17:44:41,728] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 17:44:47,433] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 17:44:47,443] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 17:44:48,134] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 17:44:49,702] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 17:44:54,222] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 18:18:42,138] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 18:18:42,486] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 18:18:52,189] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 18:18:52,192] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 22:13:01,361] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 22:13:01,781] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 22:13:17,197] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 22:13:17,205] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 22:23:35,871] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 22:23:36,424] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 22:23:52,299] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 22:23:52,303] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 22:24:08,650] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 22:24:09,140] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 22:24:19,753] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 22:24:19,757] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 22:28:27,762] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 22:28:28,263] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 22:28:36,959] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 22:28:36,968] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 22:29:00,884] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 22:29:01,417] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 22:29:13,426] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 22:29:13,432] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 22:35:52,835] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-13 22:35:53,339] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-13 22:36:01,218] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-13 22:36:01,223] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-13 22:36:02,320] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-13 22:36:04,105] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-13 22:36:10,605] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 17:53:39,939] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\GDANDE~1\AppData\Local\Temp\testng-eclipse-805908286\testng-customsuite.xml"
+[2025-02-14 17:53:40,286] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-14 17:53:40,290] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-14 17:53:40,293] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,294] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,295] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,295] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,296] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,297] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,301] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2025-02-14 17:53:40,318] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+[2025-02-14 17:53:40,319] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,319] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,320] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,320] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,321] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,321] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,325] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,325] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,326] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,326] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,327] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,328] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,328] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,328] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,329] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,330] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,332] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,332] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,332] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 17:53:40,332] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 17:53:40,340] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\AppData\Local\Temp\testng-eclipse-805908286\testng-customsuite.xml
+
+[2025-02-14 17:53:40,362] [INFO] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-02-14 17:53:40,563] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 17:53:40,567] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 17:53:41,367] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@4a5905d9: 150 ms
+[2025-02-14 17:53:41,388] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@9d1a267: 20 ms
+[2025-02-14 17:53:41,400] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@5b4d25e7: 12 ms
+[2025-02-14 17:53:41,407] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7d37f1c: 7 ms
+[2025-02-14 17:53:41,413] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4e92466a: 6 ms
+[2025-02-14 17:53:41,413] [INFO] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@66e8997c: 0 ms
+[2025-02-14 17:53:47,666] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 17:53:48,020] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 17:53:55,826] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 17:53:55,829] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 17:53:56,395] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 17:53:57,774] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 17:54:02,111] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 17:55:57,861] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 17:55:58,434] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 17:56:06,237] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 17:56:06,240] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 17:56:06,843] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 17:56:08,339] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 17:56:12,763] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 17:56:12,782] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:01:39,128] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:01:39,490] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:01:45,853] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:01:45,856] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:01:46,547] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:01:48,025] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:01:52,342] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:01:52,358] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:05:10,974] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\GDANDE~1\AppData\Local\Temp\testng-eclipse--405690071\testng-customsuite.xml"
+[2025-02-14 18:05:11,289] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,293] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-14 18:05:11,295] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,295] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,296] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,297] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,298] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,298] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,306] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2025-02-14 18:05:11,324] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+[2025-02-14 18:05:11,326] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,327] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,328] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,328] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,328] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,329] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,332] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,332] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,332] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,332] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,334] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,334] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,334] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,334] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,335] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,336] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,338] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,338] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,339] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:05:11,339] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:05:11,347] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\AppData\Local\Temp\testng-eclipse--405690071\testng-customsuite.xml
+
+[2025-02-14 18:05:11,364] [INFO] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-02-14 18:05:11,522] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:05:11,524] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:05:12,129] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@4a5905d9: 126 ms
+[2025-02-14 18:05:12,155] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@9d1a267: 25 ms
+[2025-02-14 18:05:12,169] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@5b4d25e7: 13 ms
+[2025-02-14 18:05:12,179] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7d37f1c: 10 ms
+[2025-02-14 18:05:12,187] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4e92466a: 7 ms
+[2025-02-14 18:05:12,187] [INFO] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@66e8997c: 0 ms
+[2025-02-14 18:05:19,334] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:05:19,682] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:05:26,547] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:05:26,551] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:05:27,133] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:05:28,564] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:05:32,768] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:05:35,804] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:06:49,627] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\GDANDE~1\AppData\Local\Temp\testng-eclipse--2005321112\testng-customsuite.xml"
+[2025-02-14 18:06:49,954] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-14 18:06:49,957] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-02-14 18:06:49,960] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:49,961] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:49,962] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:49,963] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:49,964] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:49,964] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:49,969] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2025-02-14 18:06:49,993] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+[2025-02-14 18:06:49,996] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:49,996] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:49,997] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:49,998] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:49,998] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:49,998] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:50,001] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:50,002] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:50,002] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:50,002] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:50,003] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:50,003] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:50,003] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:50,003] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:50,004] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:50,005] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:50,006] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:50,007] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:50,007] [INFO] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-14 18:06:50,007] [INFO] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-14 18:06:50,016] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\AppData\Local\Temp\testng-eclipse--2005321112\testng-customsuite.xml
+
+[2025-02-14 18:06:50,037] [INFO] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[2025-02-14 18:06:50,222] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:06:50,226] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:06:50,872] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@4a5905d9: 123 ms
+[2025-02-14 18:06:50,894] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@9d1a267: 21 ms
+[2025-02-14 18:06:50,903] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@5b4d25e7: 9 ms
+[2025-02-14 18:06:50,911] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7d37f1c: 7 ms
+[2025-02-14 18:06:50,917] [INFO] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@66e8997c: 6 ms
+[2025-02-14 18:06:50,918] [INFO] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6f0cb5a1: 0 ms
+[2025-02-14 18:06:53,686] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:06:54,046] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:07:01,591] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:07:01,597] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:07:02,251] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:07:03,769] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:07:08,047] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:07:08,278] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 18:07:11,348] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:07:36,977] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:07:37,380] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:07:44,520] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:07:44,522] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:07:45,224] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:07:46,684] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:07:50,807] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:07:51,045] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:15:52,278] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:15:52,638] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:15:59,678] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:15:59,681] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:16:00,401] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:16:02,907] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:16:06,214] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:16:06,548] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:16:48,049] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:16:48,481] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:16:55,569] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:16:55,570] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:16:56,127] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:16:57,554] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:17:01,790] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:17:02,374] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 18:17:04,655] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 18:17:04,664] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:19:11,337] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:19:11,710] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:19:17,764] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:19:17,766] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:19:18,508] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:19:20,086] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:19:24,517] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:19:24,982] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 18:19:28,024] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:20:52,409] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:20:52,789] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:20:59,926] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:20:59,930] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:21:00,552] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:21:09,929] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:24:33,772] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:24:34,245] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:24:40,586] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:24:40,588] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:24:41,184] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:24:42,661] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:24:46,938] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:24:47,568] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 18:24:49,483] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 18:24:49,987] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:24:53,021] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:25:31,031] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:25:31,422] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:25:38,133] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:25:38,142] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:25:38,770] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:25:40,261] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:25:44,494] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:25:45,045] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 18:25:48,089] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:25:51,133] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:28:46,711] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:28:47,111] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:28:53,689] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:28:53,695] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:28:54,567] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:28:57,001] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:29:02,084] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:29:02,648] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 18:29:04,685] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 18:29:05,215] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:29:08,254] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:38:25,175] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:38:25,579] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:38:31,483] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:38:31,487] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:38:32,184] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:38:33,671] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:38:37,692] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:38:38,357] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 18:38:40,379] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:38:43,455] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:40:01,383] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:40:01,764] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:40:08,153] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:40:08,155] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:40:08,843] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:40:10,327] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:40:14,555] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:40:15,161] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 18:40:17,144] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 18:40:18,190] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:40:22,796] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:42:03,676] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:42:04,122] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:42:10,661] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:42:10,663] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:42:11,358] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:42:11,628] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:42:12,806] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:42:37,444] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:42:37,936] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:42:45,019] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:42:45,022] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:42:45,902] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:42:46,117] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:42:46,296] [INFO] [TC002_AddEmployee] - Logging with Valid Credential
+[2025-02-14 18:48:45,594] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:48:46,022] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:48:52,873] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:48:52,876] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:50:00,825] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:50:01,274] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:50:07,874] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:50:07,877] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:50:09,965] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:50:14,015] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:50:14,546] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 18:50:16,566] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 18:54:32,225] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:54:32,644] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:54:40,464] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:54:40,467] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:59:14,271] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 18:59:14,663] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 18:59:21,697] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 18:59:21,700] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 18:59:22,705] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 18:59:23,978] [INFO] [TC002_AddEmployee] - second login try- success
+[2025-02-14 18:59:23,978] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 18:59:28,449] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 18:59:29,020] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:02:02,614] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 19:02:02,954] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 19:02:09,105] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 19:02:09,108] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 19:02:09,921] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:02:11,216] [INFO] [TC002_AddEmployee] - second login try- success
+[2025-02-14 19:02:11,216] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 19:02:15,646] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 19:02:16,227] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:02:18,374] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 19:02:20,048] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:11:49,878] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 19:11:50,301] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 19:11:56,065] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 19:11:56,067] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 19:11:56,982] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:11:58,223] [INFO] [TC002_AddEmployee] - second login try- success
+[2025-02-14 19:11:58,225] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 19:12:02,430] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 19:12:03,003] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:12:04,992] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 19:12:06,536] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:17:39,012] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 19:17:39,467] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 19:17:45,797] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 19:17:45,801] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 19:17:46,582] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:17:47,786] [INFO] [TC002_AddEmployee] - second login try- success
+[2025-02-14 19:17:47,787] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 19:17:51,863] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 19:17:52,432] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:17:54,389] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 19:17:55,929] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:17:59,954] [ERROR] [TC002_AddEmployee] - else
+[2025-02-14 19:17:59,954] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 19:18:02,803] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 19:18:03,376] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:18:05,400] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 19:18:07,850] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:18:10,868] [ERROR] [TC002_AddEmployee] - else
+[2025-02-14 19:18:10,868] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 19:18:13,181] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 19:18:13,684] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:19:09,197] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 19:19:09,586] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 19:19:16,664] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 19:19:16,667] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 19:19:19,305] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:19:19,923] [INFO] [TC002_AddEmployee] - second login try- success
+[2025-02-14 19:19:19,923] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 19:19:24,367] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 19:19:25,076] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:19:27,050] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 19:19:28,621] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:19:32,701] [ERROR] [TC002_AddEmployee] - else
+[2025-02-14 19:19:32,701] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 19:19:35,117] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 19:19:35,676] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:35:15,199] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 19:35:15,516] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 19:35:21,451] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 19:35:21,457] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 19:35:22,133] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:35:23,360] [INFO] [TC002_AddEmployee] - second login try- success
+[2025-02-14 19:35:23,360] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 19:35:27,187] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 19:35:27,677] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:35:29,639] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 19:35:31,987] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:35:35,055] [ERROR] [TC002_AddEmployee] - else
+[2025-02-14 19:35:35,056] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 19:35:37,178] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 19:35:37,757] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:35:39,659] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 19:35:41,085] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 19:35:45,145] [ERROR] [TC002_AddEmployee] - else
+[2025-02-14 19:35:45,147] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 19:35:47,280] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 19:35:47,847] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 19:35:49,873] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 22:45:51,386] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 22:45:51,717] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 22:46:03,415] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 22:46:03,418] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 22:46:04,209] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 22:46:05,619] [INFO] [TC002_AddEmployee] - second login try- success
+[2025-02-14 22:46:05,619] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 22:46:10,436] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 22:46:10,955] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 22:46:12,925] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 22:46:15,456] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 22:46:18,521] [ERROR] [TC002_AddEmployee] - else
+[2025-02-14 22:46:18,521] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 22:46:20,859] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 22:46:21,377] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 22:46:23,323] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 22:46:24,748] [INFO] [TC002_AddEmployee] - first login try-success
+[2025-02-14 22:46:28,794] [ERROR] [TC002_AddEmployee] - else
+[2025-02-14 22:46:28,794] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 22:46:31,008] [INFO] [TC002_AddEmployee] - Name and id entered
+[2025-02-14 22:46:31,486] [INFO] [TC002_AddEmployee] - Username and password entered
+[2025-02-14 22:46:33,471] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 22:57:49,739] [DEBUG] [TestNG] - suiteXmlPath: "C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml"
+[2025-02-14 22:57:50,086] [INFO] [Utils] - [TestNG] Running:
+  C:\Users\gdandekar\Desktop\Git Folders\OrangeHRM_Automation\testng.xml
+
+[2025-02-14 22:57:55,779] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-14 22:57:55,781] [DEBUG] [PackageRelationshipCollection] - Parsing relationship: /_rels/.rels
+[2025-02-14 22:58:05,203] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 22:58:05,784] [INFO] [TC002_AddEmployee] - Name & ID entered successfully!
+[2025-02-14 22:58:06,577] [INFO] [TC002_AddEmployee] - Username and password entered successfully!
+[2025-02-14 22:58:08,583] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 22:58:14,127] [INFO] [TC002_AddEmployee] - Successfully logged in ! 
+[2025-02-14 22:58:15,878] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 22:58:16,388] [INFO] [TC002_AddEmployee] - Name & ID entered successfully!
+[2025-02-14 22:58:16,868] [INFO] [TC002_AddEmployee] - Username and password entered successfully!
+[2025-02-14 22:58:18,848] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved
+[2025-02-14 22:58:24,288] [INFO] [TC002_AddEmployee] - Successfully logged in ! 
+[2025-02-14 22:58:25,944] [INFO] [TC002_AddEmployee] - Employee creation start
+[2025-02-14 22:58:26,469] [INFO] [TC002_AddEmployee] - Name & ID entered successfully!
+[2025-02-14 22:58:26,947] [INFO] [TC002_AddEmployee] - Username and password entered successfully!
+[2025-02-14 22:58:28,986] [INFO] [TC002_AddEmployee] - Employee Created successfully -Message: Successfully Saved

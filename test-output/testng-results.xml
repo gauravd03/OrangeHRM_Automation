@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-10T18:19:45 IST" name="CrossBrowserTest" finished-at="2025-02-10T18:20:14 IST" duration-ms="29412">
+  <suite started-at="2025-02-14T22:57:50 IST" name="Master" finished-at="2025-02-14T22:58:29 IST" duration-ms="39811">
     <groups>
     </groups>
-    <test started-at="2025-02-10T18:19:45 IST" name="chrome Test" finished-at="2025-02-10T18:20:11 IST" duration-ms="26196">
-      <class name="testCases.TC001_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC001_LoginTest@5d2a4eed]" started-at="2025-02-10T18:19:45 IST" name="setup" finished-at="2025-02-10T18:19:54 IST" duration-ms="8744" status="PASS">
+    <test started-at="2025-02-14T22:57:50 IST" name="Test" finished-at="2025-02-14T22:58:29 IST" duration-ms="39811">
+      <class name="testCases.TC002_AddEmployee">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC002_AddEmployee@1bb564e2]" started-at="2025-02-14T22:57:50 IST" name="setup" finished-at="2025-02-14T22:57:55 IST" duration-ms="5512" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,46 +18,89 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testInValidLogin()[pri:0, instance:testCases.TC001_LoginTest@5d2a4eed]" started-at="2025-02-10T18:19:54 IST" name="testInValidLogin" finished-at="2025-02-10T18:20:00 IST" duration-ms="6565" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testInValidLogin -->
-        <test-method signature="testValidLogin()[pri:1, instance:testCases.TC001_LoginTest@5d2a4eed]" started-at="2025-02-10T18:20:00 IST" name="testValidLogin" finished-at="2025-02-10T18:20:11 IST" duration-ms="10383" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testValidLogin -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:testCases.TC001_LoginTest@5d2a4eed]" started-at="2025-02-10T18:20:11 IST" name="TearDown" finished-at="2025-02-10T18:20:11 IST" duration-ms="433" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TearDown -->
-      </class> <!-- testCases.TC001_LoginTest -->
-    </test> <!-- chrome Test -->
-    <test started-at="2025-02-10T18:19:45 IST" name="edge Test" finished-at="2025-02-10T18:20:14 IST" duration-ms="29412">
-      <class name="testCases.TC001_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC001_LoginTest@5c8eee0f]" started-at="2025-02-10T18:19:45 IST" name="setup" finished-at="2025-02-10T18:19:56 IST" duration-ms="10920" status="PASS">
+        <test-method signature="createEmployee(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_AddEmployee@1bb564e2]" started-at="2025-02-14T22:57:56 IST" name="createEmployee" data-provider="EmpCreation" finished-at="2025-02-14T22:58:09 IST" duration-ms="13400" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[edge]]>
+                <![CDATA[Gaurav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[82]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gau12ggh56]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Manish@1234]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testInValidLogin()[pri:0, instance:testCases.TC001_LoginTest@5c8eee0f]" started-at="2025-02-10T18:19:56 IST" name="testInValidLogin" finished-at="2025-02-10T18:20:03 IST" duration-ms="7213" status="PASS">
+        </test-method> <!-- createEmployee -->
+        <test-method signature="createEmployee(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_AddEmployee@1bb564e2]" started-at="2025-02-14T22:58:09 IST" name="createEmployee" data-provider="EmpCreation" finished-at="2025-02-14T22:58:19 IST" duration-ms="10188" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gaurav1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gahhgg23456]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sanish@1234]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testInValidLogin -->
-        <test-method signature="testValidLogin()[pri:1, instance:testCases.TC001_LoginTest@5c8eee0f]" started-at="2025-02-10T18:20:03 IST" name="testValidLogin" finished-at="2025-02-10T18:20:13 IST" duration-ms="9671" status="PASS">
+        </test-method> <!-- createEmployee -->
+        <test-method signature="createEmployee(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_AddEmployee@1bb564e2]" started-at="2025-02-14T22:58:19 IST" name="createEmployee" data-provider="EmpCreation" finished-at="2025-02-14T22:58:29 IST" duration-ms="10174" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gaurav2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[80]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Guhh1234h]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sanish@1234]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testValidLogin -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:testCases.TC001_LoginTest@5c8eee0f]" started-at="2025-02-10T18:20:13 IST" name="TearDown" finished-at="2025-02-10T18:20:14 IST" duration-ms="1574" status="PASS">
+        </test-method> <!-- createEmployee -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testCases.TC002_AddEmployee@1bb564e2]" started-at="2025-02-14T22:58:29 IST" name="TearDown" finished-at="2025-02-14T22:58:29 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-      </class> <!-- testCases.TC001_LoginTest -->
-    </test> <!-- edge Test -->
-  </suite> <!-- CrossBrowserTest -->
+      </class> <!-- testCases.TC002_AddEmployee -->
+    </test> <!-- Test -->
+  </suite> <!-- Master -->
 </testng-results>

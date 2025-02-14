@@ -26,6 +26,7 @@ public class BaseClass {
 		FileReader file=new FileReader("./src//test//resources//config.properties");
 		p=new Properties();
 		p.load(file);
+		logger = LogManager.getLogger(this.getClass());
 		
 		String br = Browser;
 		switch (br) {
@@ -39,7 +40,7 @@ public class BaseClass {
 			logger.error("Invalid Browser Type!");
 		}
 
-		logger = LogManager.getLogger(this.getClass());
+		
 		driver.get(p.getProperty("URL"));
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
@@ -48,7 +49,7 @@ public class BaseClass {
 
 	@AfterClass
 	void TearDown() {
-		driver.quit();
+		//driver.quit();
 
 	}
 

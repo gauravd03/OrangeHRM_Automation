@@ -26,6 +26,8 @@ public class LoginPage extends BasePage {
 	@FindBy (xpath="//img[@class=\"oxd-userdropdown-img\"]")
 	WebElement profileImg; 
 	
+	@FindBy (xpath="//div[@class=\"oxd-alert oxd-alert--error\"]")
+	WebElement csrfTokenError;
 	
 	public void enterUsername(String name) {
 		txtUserName.sendKeys(name);
@@ -42,10 +44,13 @@ public class LoginPage extends BasePage {
 		return driver.getCurrentUrl().contains("dashboard");
 	}
 	
-	public boolean loginFail() {
-		return invalidLoginError.isDisplayed();
+	public String loginFail() {
+		return invalidLoginError.getText();
 	}
 	
+	public boolean isCSRFTokenErrorDisplayed() {
+		return csrfTokenError.isDisplayed();
+	}
 	
 
 }

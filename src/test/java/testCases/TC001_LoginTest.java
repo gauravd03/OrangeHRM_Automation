@@ -6,26 +6,31 @@ import org.testng.annotations.Test;
 import pageObjects.LoginPage;
 
 public class TC001_LoginTest extends BaseClass {
+	LoginPage  lp;
 
 	@Test(priority = 0)
 	public void testInValidLogin() {
-		LoginPage lp = new LoginPage(driver);
+		lp = new LoginPage(driver);
 
+        lp.enterUsername(p.getProperty("AdminUser"));
+		lp.enterPassword(p.getProperty("Password"));
+		lp.clickLogin();
+		
 		logger.info("Logging with InValid Credential");
 		lp.enterUsername(p.getProperty("AdminUser"));
 		lp.enterPassword(p.getProperty("InvalidPass"));
 		lp.clickLogin();
-		Assert.assertTrue(lp.loginFail());
+		
+		Assert.assertEquals(lp.loginFail(), "Invalid credentials");
 		logger.info("Pass - Login Faild because of Invalid credential!");
 	}
 
 	@Test(priority = 1)
 	public void testValidLogin() {
-		LoginPage lp = new LoginPage(driver);
+		 lp = new LoginPage(driver);
 
 		logger.info("Logging with Valid Credential");
-		lp.enterUsername(p.getProperty("AdminUser"));
-		
+		lp.enterUsername(p.getProperty("AdminUser"));	
 		lp.enterPassword(p.getProperty("Password"));
 		lp.clickLogin();
 		
@@ -34,8 +39,7 @@ public class TC001_LoginTest extends BaseClass {
 			logger.info("TC Pass - Succesfully logged in !");
 		} catch (AssertionError e) {
 			logger.error("TC Failed - Login Failed ! " + e.getMessage());
-			throw e; // again thrown exception bcoz,if tc failed then still testng will show pass in
-						// reports as
+			throw e; // again thrown exception bcoz,if tc failed then still testng will show pass  reports as
 						
 		}
 	}
