@@ -94,6 +94,11 @@ Steps for Cross-Browser Testing:
 
 Note * always on finish flush the report ->  extent.flush()                   ->  else we will not get report saved 
 
+We can do other configuration as well using config().-
+  1.extent.config().setTheme(THeme.DARK);
+                  .setreportName(name);
+                  .setTitle(titke);
+                  .setTimeStampFormat();
 
 
 
