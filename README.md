@@ -11,6 +11,7 @@ This is an automated testing project for the OrangeHRM application. OrangeHRM is
   6.Maven              : To build , manage project and dependacies
   7.GIt                : Version control system
   8.Jenkins            : CI/CD
+  9.Extent report      : TO log details and status of execution 
 
 .....................................................................
  ** Framework Structure:**
