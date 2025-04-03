@@ -40,6 +40,12 @@ This is an automated testing project for the OrangeHRM application. OrangeHRM is
   
 **Dependancies Added ** -> Selenium-java, log4j(3), extentreport, apachiPOI(2), commonsIO(2)
 
+Main Factors of Framework:
+1.Code reusibility
+2.Test Data Management
+3.Reporting 
+4.Configuration
+
 
 ...............................................................
 
@@ -67,4 +73,22 @@ Steps for Cross-Browser Testing:
 1.Add dependancies 2, POI & POI-OOXMl
 2.Create excel utility file under utility package . which contain code to read excel file data
 3.Using testng data provider pass parameters to @Test method
+
+............................................................
+**Extent Report**
+1.Add dependancies 
+2.Then use three classes to implement -
+ 1.ExtentReports       -: Main engine of extent report / handle whole reporting 
+                       [  ExtentReports() extent =new ExtentReports();  ]                              -> creating instance for one report
+ 2.ExtentSpartReporter  -: Use to just specify which type of report we want and we attach it to engine
+                       [  ExtentSpartReporter sparkReporter= new ExtentSpartReporter("path/name.html");  ]   -> created spark report type object 
+                       [   extent.attachReporter(sparkReporter);    ]                                        -> attaching to main report to specify type of report
+                          
+ 3.ExtentTest          -: use to store each test instance / 
+                      [ ExtentTest test=extent.createTest("Test case 1");   ]   -> Creating test to log Testmethod detail in report / this return ExtentTest type  object .
+                      [test.pass("test case pass');                         ]   -> using above object login details related to method execution (pass/info)
+                      [test.log(Status.PASS,"test pass");                   ]    -> another way to log details 
+
+
+
 
