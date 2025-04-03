@@ -87,7 +87,7 @@ Steps for Cross-Browser Testing:
  3.ExtentTest          -: use to store each test instance / 
                       [ ExtentTest test=extent.createTest("Test case 1");   ]   -> Creating test to log Testmethod detail in report / this return ExtentTest type  object .
                       [test.pass("test case pass');                         ]   -> using above object login details related to method execution (pass/info)
-                      [test.log(Status.PASS,"test pass");                   ]    -> another way to log details/ other levels available -Fail/skip/warning/pass/info
+                      test.log(Status.PASS,"test pass");                       -> another way to log details/ other levels available -Fail/skip/warning/pass/info
 
 
                      test.addScreenCaptureFromPath(path);                      -> To add screenshot for test
